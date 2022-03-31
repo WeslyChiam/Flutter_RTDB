@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/weslychiam/Project/gtk_flutter/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.2"
+    buildFolder="/home/weslychiam/Project/gtk_flutter/build/app"
+    bootClassPath="/home/weslychiam/Android/Sdk/platforms/android-31/android.jar:/home/weslychiam/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

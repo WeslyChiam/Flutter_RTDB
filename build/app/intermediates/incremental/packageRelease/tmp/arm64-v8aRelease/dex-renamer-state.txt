@@ -1,0 +1,4 @@
+#Wed Mar 30 13:32:56 MYT 2022
+base.0=/home/weslychiam/Project/gtk_flutter/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
